@@ -305,7 +305,7 @@ Contribuições são bem-vindas! Por favor, siga estes passos:
 
 ### Autores e Contribuidores
 
-| [<img loading="lazy" src="https://github.com/plinio.png" width=115><br><sub>Plinio</sub>](https://github.com/plinio) |
+| [<img loading="lazy" src="https://github.com/mabesi.png" width=115><br><sub>Mabesi</sub>](https://github.com/mabesi) |
 | :---: |
 
 ### Aviso Legal
